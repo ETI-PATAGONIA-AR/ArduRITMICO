@@ -83,7 +83,9 @@ Si una banda supera su umbral → ¡esa luz se enciende!
 **Librerías utilizadas:**
 
 _Adafruit GFX_
+
 _Adafruit SSD1306_
+
 _fix_fft (agregar manualmente)_
 
 <img width="4531" height="3031" alt="ArduRITMICO_CIRCUIT" src="https://github.com/user-attachments/assets/dbdf2575-487a-45d1-a932-59734c2b1eaf" />
@@ -94,7 +96,7 @@ _fix_fft (agregar manualmente)_
 
 <img width="530" height="573" alt="ArduRITMICO_PCB1" src="https://github.com/user-attachments/assets/d412f1c7-70fc-4717-928e-780e3e21d42b" />
 
-🧑‍💻 ****El Código completo?
+🧑‍💻 ******El Código completo?**
 El código completo no se incluye en el repositorio para proteger el desarrollo del proyecto.
 📌 Disponibilidad solo con fines educativos y bajo solicitud del autor...
 Si querés recibirlo:
